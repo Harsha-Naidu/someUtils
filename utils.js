@@ -6,3 +6,7 @@ function divide (x,y)
 {
     return (x/y)
 }
+function power (n,m)
+{
+    return n**m
+}
