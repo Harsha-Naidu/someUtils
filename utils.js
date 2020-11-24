@@ -10,3 +10,6 @@ function power (n,m)
 {
     return n**m
 }
+/*function subtract (c,d){
+    return (c-d)
+}*/
